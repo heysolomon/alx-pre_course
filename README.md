@@ -1,1 +1,1 @@
-i have mad changes to this README
+i have made changes to this README
